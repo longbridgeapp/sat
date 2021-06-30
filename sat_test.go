@@ -13,6 +13,9 @@ func TestConvertPlain(t *testing.T) {
 		"繁体中文": "繁體中文",
 		"还带来了音乐等方面的重大更新": "還帶來了音樂等方麵的重大更新",
 		"如果你是 iOS 14.5.1 用户，或者 Apple Music 的忠实粉丝，那么根本找不到理由去拒绝 iOS 14.6。": "如菓妳昰 iOS 14.5.1 用戶，或者 Apple Music 的忠實粉絲，那麼根本找不到理由去拒絕 iOS 14.6。",
+		"同花顺": "同花順",
+		"搜索":  "搜索",
+		"返回":  "返回",
 	}
 
 	for sc, expected := range cases {
